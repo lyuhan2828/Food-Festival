@@ -1,0 +1,31 @@
+{
+  "name": "food-festival",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyuhan2828/Food-Festival.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyuhan2828/Food-Festival/issues"
+  },
+  "homepage": "https://github.com/lyuhan2828/Food-Festival#readme",
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "image-webpack-loader": "^8.1.0",
+    "webpack": "^5.73.0",
+    "webpack-bundle-analyzer": "^4.5.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-pwa-manifest": "^4.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "save": "^2.5.0"
+  }
+}
